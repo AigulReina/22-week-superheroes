@@ -1,0 +1,24 @@
+.hero-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    width: 450px;
+    text-align: justify;
+    font-size: medium;
+    font-style: oblique;
+}
+
+.hero-card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.heroes-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.App {
+    text-align: center;
+}
