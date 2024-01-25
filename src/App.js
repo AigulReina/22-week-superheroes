@@ -1,5 +1,5 @@
 import React from 'react';
-import HeroCard from './HeroCard';
+import HeroCard from './HeroCard.jsx';
 import './App.css';
 
 
